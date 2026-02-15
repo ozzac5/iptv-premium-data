@@ -10,11 +10,7 @@
       "portal": "http://galaxytv.vip/c/",
       "mac": "00:1A:79:03:ab:12"
     },
-    {
-      "id": 3,
-      "portal": "http://streamserver.pro/portal/",
-      "mac": "00:1A:79:05:ef:90"
-    }
+
   ],
   "xtreamCodes": [
     {
@@ -29,11 +25,6 @@
       "username": "user_premium1",
       "password": "pass123456"
     },
-    {
-      "id": 3,
-      "host": "http://bestiptv.net:25461",
-      "username": "sports_fan",
-      "password": "sporty2024"
-    }
   ]
 }
+
