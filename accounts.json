@@ -9,6 +9,16 @@
       "id": 3,
       "portal": "http://streamserver.pro/portal/",
       "mac": "00:1A:79:05:ef:90"
+    },
+    {
+      "id": 3,
+      "portal": "http://streamserver.pro/portal/",
+      "mac": "00:1A:79:05:ef:90"
+    },
+    {
+      "id": 3,
+      "portal": "http://streamserver.pro/portal/",
+      "mac": "00:1A:79:05:ef:90"
     }
   ],
   "xtreamCodes": [
@@ -23,7 +33,20 @@
       "host": "http://bestiptv.net:25461",
       "username": "sports_fan",
       "password": "sporty2024"
+    },
+    {
+      "id": 3,
+      "host": "http://bestiptv.net:25461",
+      "username": "sports_fan",
+      "password": "sporty2024"
+    },
+    {
+      "id": 3,
+      "host": "http://bestiptv.net:25461",
+      "username": "sports_fan",
+      "password": "sporty2024"
     }
   ]
 }
+
 
