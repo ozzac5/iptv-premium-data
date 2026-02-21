@@ -2,51 +2,161 @@
   "macPortal": [
     {
       "id": 1,
-      "portal": "http://galaxytv.vip/c/",
-      "mac": "00:1A:79:02:fd:88"
+      "portal": "http://16243-sides.cdn-o2.me:80/c/",
+      "mac": "00:1A:79:71:62:66"
+    },
+    {
+      "id": 2,
+      "portal": "http://stalker.ugoiptv.com:80/c/",
+      "mac": "00:1A:79:C0:4F:55"
     },
     {
       "id": 3,
-      "portal": "http://streamserver.pro/portal/",
-      "mac": "00:1A:79:05:ef:90"
+      "portal": "http://16243-sides.cdn-o2.me:80/c/",
+      "mac": "00:1A:79:76:AC:F4"
     },
     {
-      "id": 3,
-      "portal": "http://streamserver.pro/portal/",
-      "mac": "00:1A:79:05:ef:90"
+      "id": 4,
+      "portal": "http://tv.premiumplus.tv:80/c/",
+      "mac": "00:1A:79:A2:A1:BD"
     },
     {
-      "id": 3,
-      "portal": "http://streamserver.pro/portal/",
-      "mac": "00:1A:79:05:ef:90"
+      "id": 5,
+      "portal": "http://tv.trexiptv.com:80/c/",
+      "mac": "00:1A:79:C2:25:22"
+    },
+    {
+      "id": 6,
+      "portal": "http://stalker.ugoiptv.com:80/c/",
+      "mac": "00:1A:79:C2:83:ED"
+    },
+    {
+      "id": 7,
+      "portal": "http://300300.org/c/",
+      "mac": "00:1A:79:B3:C4:76"
+    },
+    {
+      "id": 8,
+      "portal": "http://mag.trexlive.me:80/c/",
+      "mac": "00:1A:79:AF:5C:83"
+    },
+    {
+      "id": 9,
+      "portal": "http://big.ipfr.tv:8000/c/",
+      "mac": "00:1A:79:B5:56:5E"
+    },
+    {
+      "id": 10,
+      "portal": "http://mag.trexlive.me:80/c/",
+      "mac": "00:1A:79:CC:29:E4"
+    },
+    {
+      "id": 11,
+      "portal": "http://vpn.full-keys4k.xyz:80/c/",
+      "mac": "00:1A:79:32:C4:38"
+    },
+    {
+      "id": 11,
+      "portal": "http://tr.redatvgold.com:80/c/",
+      "mac": "00:1A:79:8C:09:66"
+    },
+    {
+      "id": 12,
+      "portal": "http://vpn.truestream-hub.com/c/",
+      "mac": "00:1A:79:5A:ED:5F"
+    },
+    {
+      "id": 13,
+      "portal": "http://p2.iptvprivateserver.to:80/c/",
+      "mac": "00:1A:79:9B:52:63"
+    },
+    {
+      "id": 14,
+      "portal": "http://alpha6-tx.me:80/c/",
+      "mac": "00:1A:79:00:36:27"
+    },
+    {
+      "id": 15,
+      "portal": "http://sharklook.xyz:80/c/",
+      "mac": "00:1A:79:C3:DD:56"
     }
   ],
+{
   "xtreamCodes": [
     {
       "id": 1,
-      "host": "http://mhav56789.com:2095",
-      "username": "mahmoud001022",
-      "password": "01003478460m"
+      "host": "http://goldenpro.xyz",
+      "username": "BZBBY4J",
+      "password": "4CJPHEQ"
+    },
+    {
+      "id": 2,
+      "host": "http://line.tvplus4k.site",
+      "username": "4c5c8ca33d",
+      "password": "2ca556beebf6"
     },
     {
       "id": 3,
-      "host": "http://bestiptv.net:25461",
-      "username": "sports_fan",
-      "password": "sporty2024"
+      "host": "http://livepptv.net",
+      "username": "136297034473864",
+      "password": "1593574628"
     },
     {
-      "id": 3,
-      "host": "http://bestiptv.net:25461",
-      "username": "sports_fan",
-      "password": "sporty2024"
+      "id": 4,
+      "host": "http://naxatv.xyz:80",
+      "username": "0C25201362CF",
+      "password": "6BA3F170243A"
     },
     {
-      "id": 3,
-      "host": "http://bestiptv.net:25461",
-      "username": "sports_fan",
-      "password": "sporty2024"
+      "id": 5,
+      "host": "http://shrkbell.top",
+      "username": "0500538979",
+      "password": "8892684969"
+    },
+    {
+      "id": 6,
+      "host": "http://prolivepp.net",
+      "username": "870155663684458",
+      "password": "1593574628"
+    },
+    {
+      "id": 7,
+      "host": "http://line.4k-beast.co",
+      "username": "BC:7E:8B:89:0A:06",
+      "password": "6391D9"
+    },
+    {
+      "id": 8,
+      "host": "http://line.ottcst.com:80",
+      "username": "TDPPKRJNU2",
+      "password": "95SNKKUDLT"
+    },
+    {
+      "id": 9,
+      "host": "http://s0739.x.smline.xyz:2082",
+      "username": "822157842419240",
+      "password": "97599577"
+    },
+    {
+      "id": 10,
+      "host": "http://fast15.xyz:80",
+      "username": "25777144857059",
+      "password": "11022714583298"
+    },
+    {
+      "id": 11,
+      "host": "http://ultra-pro.live:8080",
+      "username": "AnnasAlhmedi",
+      "password": "g9MVPtU9sc"
+    },
+    {
+      "id": 12,
+      "host": "http://ultra-pro.live:8080",
+      "username": "IbrahimChamou",
+      "password": "CDW9wwq0EC"
     }
   ]
 }
+
 
 
