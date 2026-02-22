@@ -82,95 +82,58 @@
     }
   ],
   "xtreamCodes": [
-    {
-      "id": 1,
-      "host": "http://goldenpro.xyz",
-      "username": "BZBBY4J",
-      "password": "4CJPHEQ"
-    },
-    {
-      "id": 2,
-      "host": "http://line.tvplus4k.site",
-      "username": "4c5c8ca33d",
-      "password": "2ca556beebf6"
-    },
-    {
-      "id": 3,
-      "host": "http://livepptv.net",
-      "username": "136297034473864",
-      "password": "1593574628"
-    },
-    {
-      "id": 4,
-      "host": "http://naxatv.xyz:80",
-      "username": "0C25201362CF",
-      "password": "6BA3F170243A"
-    },
-    {
-      "id": 5,
-      "host": "http://shrkbell.top",
-      "username": "0500538979",
-      "password": "8892684969"
-    },
-    {
-      "id": 6,
-      "host": "http://prolivepp.net",
-      "username": "870155663684458",
-      "password": "1593574628"
-    },
-    {
-      "id": 7,
-      "host": "http://line.4k-beast.co",
-      "username": "BC:7E:8B:89:0A:06",
-      "password": "6391D9"
-    },
-    {
-      "id": 8,
-      "host": "http://line.ottcst.com:80",
-      "username": "TDPPKRJNU2",
-      "password": "95SNKKUDLT"
-    },
-    {
-      "id": 9,
-      "host": "http://s0739.x.smline.xyz:2082",
-      "username": "822157842419240",
-      "password": "97599577"
-    },
-    {
-      "id": 10,
-      "host": "http://fast15.xyz:80",
-      "username": "25777144857059",
-      "password": "11022714583298"
-    },
-    {
-      "id": 11,
-      "host": "http://ultra-pro.live:8080",
-      "username": "AnnasAlhmedi",
-      "password": "g9MVPtU9sc"
-    },
-    {
-      "id": 12,
-      "host": "http://ultra-pro.live:8080",
-      "username": "IbrahimChamou",
-      "password": "CDW9wwq0EC"
-    },
-    {
-      "id": 13,
-      "host": "http://azertytv.com:2103",
-      "username": "pP3wQbkS",
-      "password": "bueP1kQC"
-    },
-    {
-      "id": 14,
-      "host": "http://bobe2025.me",
-      "username": "4damuq8kzs",
-      "password": "1gyi3c9qh2"
-    }
-  ]
-}
-
-
-
-
-
-
+  {
+    "id": 1,
+    "host": "http://731440437257.elg-26.com:80",
+    "username": "tahabourass",
+    "password": "bkr535borf"
+  },
+  {
+    "id": 2,
+    "host": "http://opohkt.2m2h.im:80",
+    "username": "amirahassan",
+    "password": "757008700651"
+  },
+  {
+    "id": 3,
+    "host": "http://915106680247.elg-26.com:80",
+    "username": "z79jpveul7",
+    "password": "52igpuqqio"
+  },
+  {
+    "id": 4,
+    "host": "http://storelink.pro:80",
+    "username": "Hajakamola",
+    "password": "10155049577773"
+  },
+  {
+    "id": 5,
+    "host": "http://sm213.xyz:80",
+    "username": "moussa2524585",
+    "password": "fadela2026"
+  },
+  {
+    "id": 6,
+    "host": "http://nexon.cloud-f-proxy.xyz:80",
+    "username": "0v0ek831os",
+    "password": "glqfu2161a"
+  },
+  {
+    "id": 7,
+    "host": "http://line.trx-ott.com",
+    "username": "f05be78fac",
+    "password": "516956e727b8"
+  },
+  {
+    "id": 8,
+    "host": "http://televes-net.com:80",
+    "username": "202505232122",
+    "password": "mb174n43to"
+  },
+  {
+    "id": 9,
+    "host": "http://line.ottcst.com:80",
+    "username": "bc:7e:8b:3b:35:a0",
+    "password": "CPVGX3NTHV"
+  }
+]
